@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Centeno)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned how to make a web application, written in javascript, that can be used within an HTML document. The specific program was a monthly budget calculator that took the sum of 5 different expenses, found the total expense, and then gave the user data on the expenses based on a percentage value.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://centenole.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how two different programming languages can work together to create a highly interactive and useful webpage.
+2. I learned how to link a javascript program to an HTML document.
+3. I learned how create an expense calculation program.
 
